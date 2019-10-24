@@ -20,7 +20,7 @@ Por meio de uma apresentação presencial feita por membros da turma de desenvol
 
 
 Giife Sala A302, IMD, à partir das 13:45 da tarde.
-> Se quiser, traga seu notebook 
+> Se quiser, traga seu notebook, mas não teremos lanchinho :(
 
 ## O que preciso fazer?
 
@@ -30,11 +30,15 @@ Damos duas opções:
 - Ler o material disponibilizado aqui no repositório, estudar por conta própria os termos aqui citados e claro, responder as tarefas propostas.
 > Não há aprendizado sem prática e.e
 
+
 ## Vamos as questões...
 
 1.
+
 2.
+
 3.
+
 4.
 
 ## Por fim...
