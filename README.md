@@ -19,7 +19,7 @@ Por meio de uma apresentação presencial feita por membros da turma de desenvol
 ## Hora e Lugar
 
 
-Giife Sala A302, IMD, à partir das 13:45 da tarde.
+Giife Sala A302, IMD, no dia 31/10, à partir das 13:45 da tarde.
 > Se quiser, traga seu notebook, mas não teremos lanchinho :(
 
 ## O que preciso fazer?
