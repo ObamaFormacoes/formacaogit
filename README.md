@@ -44,4 +44,4 @@ Damos duas opções:
 ## Por fim...
 
 Essa formação faz parte de uma iniciativa interna do grupo de desenvolvedores da plataforma Obama, idealizada para popularizar os conhecimentos adquiridos, de alguns, para todos os seus membros.
-> Caso não conheça nossa plataforma, dá uma passadinha lá ;) http://obama.imd.ufrn.br , nossa equipe está sempre disposta a receber feedback e críticas quanto ao seu estilo de desenvolvimento e os seus produtos.
+> Caso não conheça nossa plataforma, dá uma passadinha lá ;) [Obama](http://obama.imd.ufrn.br) , nossa equipe está sempre disposta a receber feedback e críticas quanto ao seu estilo de desenvolvimento e os seus produtos.
