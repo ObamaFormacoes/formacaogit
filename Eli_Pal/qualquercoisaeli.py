@@ -9,7 +9,24 @@ Original file is located at
 
 # Palíndrome
 
-Palind = ["arara", "casa", "rodador", "socos", "moises" ]
-PalRes = [ True, False, True, True, False ]
+Palind = ["arara", "casa", "rodador", "socos", "moises" , "Muoi"]
+PalRes = [ True, False, True, True, False, False ]
 
 # Abrir o Palindrome
+
+#i = len(Palind)
+#LenPal[i] = []
+
+#for a in range 0:i 
+#    LenPal[a] = len (Palind(a))
+
+# Códiogo do Moises
+for a in range (len(Palind)):
+  RPal = (Palind[a] [::-1])
+  if (RPal == Palind[a]):
+    PalRes[a] = True
+
+  else: 
+    PalRes[a] = False
+    
+print (PalRes)
