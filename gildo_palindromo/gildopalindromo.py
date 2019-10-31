@@ -7,5 +7,16 @@ Original file is located at
     https://colab.research.google.com/drive/13ip-p9-NKsvjFSeJsflWE9P3mvj_p1lF
 """
 
-lista = ["arara","biscoito","ama","osso","homem","jefferson"];
-lista2 = [True,False,True,True,False,False];
+lista = ["arara","biscoito","ama","osso","homem","jefferson"]
+lista2 = [True,False,True,True,False,False]
+
+def verificarPalindromo(lis):
+    listy = []
+    for palavra in lis:
+        if(''.join(reversed(palavra)) == palavra):
+            listy.append(True)
+        else:
+            listy.append(False)
+        
+    return listy
+
