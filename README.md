@@ -33,7 +33,7 @@ Damos duas opções:
 
 ## Vamos as questões...
 
-1. Crie duas funções algoritmo a primeira recebe um array de strings, e retorna um array de booleanos, indicando se a palavra é ou não palíndroma e outra que receba 2 arrays booleanos e os compare indicando se são iguais ou diferentes (Quando iguais, exiba a mensagem que as palíndromas foram identificadas corretamente e incorretamente caso contrário).
+1. Crie duas funções, a primeira recebe um array de strings, e retorna um array de booleanos, indicando se a palavra é ou não palíndroma e outra que receba 2 arrays booleanos e os compare indicando se são iguais ou diferentes (Quando iguais, exiba a mensagem que as palíndromas foram identificadas corretamente e incorretamente caso contrário).
 
 
 ## Por fim...
