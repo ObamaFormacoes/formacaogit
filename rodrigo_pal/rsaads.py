@@ -11,3 +11,15 @@ Original file is located at
 
 lista = ["arara","ama","ele","osso","radar","biscoito","homem","bolacha","bonoro"]
 lista2 = [True,True,True,True,True,False,False,False,False]
+lista3=[]
+
+def espal(lista):
+  global lista3
+  for palavra in lista:
+      if(''.join(reversed(palavra))== palavra):
+        lista3.append(True)
+      else:
+        lista3.append (False)
+      
+espal(lista)
+print(lista3)
