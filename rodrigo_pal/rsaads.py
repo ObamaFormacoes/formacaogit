@@ -23,3 +23,11 @@ def espal(lista):
       
 espal(lista)
 print(lista3)
+
+def boolean(lista2,lista3):
+  if lista2 == lista3:
+    print("É igual")
+  else:
+    print("Não é igual")
+    
+boolean(lista2,lista3)
