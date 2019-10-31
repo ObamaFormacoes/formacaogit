@@ -20,3 +20,9 @@ def verificarPalindromo(lis):
         
     return listy
 
+def compararArray(array1, array2):
+  if(array1 == array2):
+    print('Você analisou corretamente') 
+  else:
+    print("Algo deu errado")
+
