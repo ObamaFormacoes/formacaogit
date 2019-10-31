@@ -28,3 +28,18 @@ if (PalRes==Palres):
   print ("Certou Miserávi")
 else: 
   print ("Erooooouuu")
+
+"""# Queridos Formadores,
+## Parabéns pelo excelentíssimo curso.
+
+
+Minhas críticas são mais incentivos para continuar essa longa jornada na vida docente. Sendo elas, listadas abaixo:
+
+
+*   Procurem colocar mais imagens para dar um maior dinamismo na aula
+*   Os conceitos podem ser feitos de forma breve e preferencialmente comentando as diferenças entre os comandos.
+*   Para facilitar alguns trabalhos e ganhar tempo em formação, dêem preferência a prints do código, para evitar problemas como "travado em 39%"
+*   Por fim, como todo bom curso de programação ou relacionado, sempre comece o passo-a-passo com a mão na massa, com a intrução mais básica... O clássico : "Hello World"
+
+ObsFinal: Jefferson, minsina React
+"""
