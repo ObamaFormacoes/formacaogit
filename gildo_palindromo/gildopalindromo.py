@@ -26,3 +26,10 @@ def compararArray(array1, array2):
   else:
     print("Algo deu errado")
 
+
+
+'''
+A formação foi muito produtiva,ensinando como o git funciona e trirando as duvidas
+que haviam. Não possuo criticas a respeito, apenas sugerir que disponibilizem um
+print da tabela que esta na documentação do git. 
+'''
