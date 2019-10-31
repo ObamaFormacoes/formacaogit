@@ -31,3 +31,9 @@ def boolean(lista2,lista3):
     print("Não é igual")
     
 boolean(lista2,lista3)
+
+'''
+A formação de git foi uma ótima experiência de aprendizado,será muito útil para a realização de trabalhos futuros. Os tutores fizeram um ótimo trabalho.
+Não possuo nenhuma crítica negativa. 
+
+'''
